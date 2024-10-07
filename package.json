@@ -1,0 +1,7 @@
+{
+  "pnpm": {
+    "overrides": {
+      "express>cookie": "0.7.0"
+    }   
+  }
+}
